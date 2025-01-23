@@ -1,4 +1,3 @@
-# human-pose-estimation-using-machine-learning
 # Human Pose Estimation Project
 
 ## Overview
